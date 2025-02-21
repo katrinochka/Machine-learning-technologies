@@ -1,1 +1,1 @@
-# Machine-learning-technologies
+# Machine learning technologies
